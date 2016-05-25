@@ -15,9 +15,8 @@ We need ```spring-data-orientdb```for Spring Data OrientDB support.
 We'll be checking out a commit known to be working at the time of this writing.
 
 ```
-git clone git@github.com:orientechnologies/spring-data-orientdb.git
+git clone https://github.com/orientechnologies/spring-data-orientdb
 cd spring-data-orientdb
-git checkout 6337a3e
 mvn clean install
 ```
 
