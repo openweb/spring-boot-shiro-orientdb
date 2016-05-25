@@ -17,6 +17,7 @@ We'll be checking out a commit known to be working at the time of this writing.
 ```
 git clone https://github.com/orientechnologies/spring-data-orientdb
 cd spring-data-orientdb
+git checkout 6337a3e
 mvn clean install
 ```
 
