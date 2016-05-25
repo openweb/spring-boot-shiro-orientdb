@@ -23,6 +23,8 @@ mvn clean install
 
 # Run
 
+vim pom.xml // http://docs.spring.io/autorepo/docs/spring-boot/1.2.0.RELEASE/maven-plugin/usage.html
+
 ```
 mvn clean package spring-boot:run
 ```
